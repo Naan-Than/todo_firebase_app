@@ -6,18 +6,17 @@ Includes features like login, task list, add new tasks, view task details, and s
 ---
 
 ## 📸 Screenshots
+### 🔐 Login Screen
+![login](https://github.com/user-attachments/assets/bb088403-f45b-4343-b057-a5fe801612ac)
 
-| Login Screen | Home Screen (Task List) |
-|:------------:|:-----------------------:|
-|[login](https://github.com/user-attachments/assets/b7fe3afa-9d85-46e6-a8b9-13b8e4d4ec74)| ![home-list](https://github.com/user-attachments/assets/a9a2fe9f-db7b-4da6-a13b-c53d3b8a9176)
-|
+### 🏠 Home Screen (Task List)
+![home-list](https://github.com/user-attachments/assets/a9a2fe9f-db7b-4da6-a13b-c53d3b8a9176)
 
-| Add Task Screen | Task Details Screen |
-|:---------------:|:-------------------:|
-| ![task-add](https://github.com/user-attachments/assets/252cdc72-336c-406a-b9e0-f37c2047b094)
-| ![task-info](https://github.com/user-attachments/assets/5d7ab2f6-71e1-44d5-820a-36449038f37c)
- |
+### ➕ Add Task Screen
+![task-add](https://github.com/user-attachments/assets/252cdc72-336c-406a-b9e0-f37c2047b094)
 
+### 📄 Task Details Screen
+![task-info](https://github.com/user-attachments/assets/5d7ab2f6-71e1-44d5-820a-36449038f37c)
 
 ---!
 
@@ -35,7 +34,8 @@ Includes features like login, task list, add new tasks, view task details, and s
 ---
 
 ## 🛠 Tech Stack
-- **Flutter** (Frontend)
+- **Flutter** (Frontend Framework)
+- **Provider** (State Management)
 - **Firebase** (Authentication, Firestore Database)
 
 ---
