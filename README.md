@@ -44,5 +44,5 @@ Includes features like login, task list, add new tasks, view task details, and s
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/todo-app.git](https://github.com/Naan-Than/todo_firebase_app.git)
+   git clone https://github.com/Naan-Than/todo_firebase_app.git
    cd todo-app
